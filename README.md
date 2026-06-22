@@ -17,8 +17,7 @@ El contenido de esta dataset fue recopilado de kaggle contiene informacion de va
 ## Herramientas
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
-- Power BI
 - GitHub
+
